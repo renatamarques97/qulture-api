@@ -1,5 +1,7 @@
 # Qulture API
 
+[![Code Climate](https://codeclimate.com/github/renatamarques97/qulture-api.svg)](https://codeclimate.com/github/renatamarques97/qulture-api)
+
 ### Ruby version
 ```
 2.7.1
