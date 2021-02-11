@@ -27,3 +27,26 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+/public/packs
+/public/packs-test
+/node_modules
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+
+logfile
+
+# Ignore asdf file
+.tool-versions
+
+# Ignore Vim temporary files
+*.swp
+*.swo
+*.swn
+
+# Ignore simple-cov folder
+/coverage
+
+# Ignore MacOS files
+.DS_Store
